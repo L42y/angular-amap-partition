@@ -1,0 +1,22 @@
+{
+  "name": "angular-amap-partition",
+  "main": "angular-amap-partition.js",
+  "version": "0.0.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "`AMap.Partition` as an AngularJS service",
+  "keywords": [
+    "angular",
+    "amap"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-amap-partition",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
